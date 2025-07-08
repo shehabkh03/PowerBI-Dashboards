@@ -4,4 +4,3 @@ A collection of interactive data analysis dashboards built in Power BI. Each pro
 
 ## Projects
 - [Netflix Customer Churn](NetflixCustomerChurn/README.md)
-- More coming soon!
