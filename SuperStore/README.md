@@ -49,9 +49,8 @@ To explore SuperStore's sales data in depth and uncover actionable insights rela
 - `SuperStoreDashboard.pbix` – Main Power BI dashboard
 - `Dashboard.png` – Image preview of the dashboard
 - `Dataset/` – Contains:
-  - `raw/` – Original dataset (as downloaded)
-  - `clean/` – Cleaned version used for SQL import
-- `SQL_Schema/` – SQL scripts for fact and dimension views
+  - `Raw/` – Original dataset (as downloaded)
+  - `Cleaned/` – Cleaned version used for SQL import
 
 ---
 
